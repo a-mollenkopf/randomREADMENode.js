@@ -25,9 +25,21 @@ This project tested my knowledge of CLI's and the use of node,js to accomplish t
 [Sample readme.md](SampleREADME.md)
 
 [CLI in use pictures/video]
-[video of CLI usage] (https://www.awesomescreenshot.com/video/279263?key=64ff513f1b9f9b7aca05630a854e28c1)
+
+
+
+https://www.awesomescreenshot.com/video/279263?key=64ff513f1b9f9b7aca05630a854e28c1)
+
+
+
 [whole readme sample](assets/whole-readme-sample.png)
+
+
+
 [readme generator deployed](assets/readme-generator-deployed.png)
+
+
+
 [preview readme](assets/preview-readme.png)
 
 
