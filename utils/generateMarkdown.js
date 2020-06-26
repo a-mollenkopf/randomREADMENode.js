@@ -2,11 +2,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   
-  
-  
   ## ${data.description}
-  
-  
   
   
   
@@ -19,31 +15,22 @@ function generateMarkdown(data) {
   [Questions](##questions)
 
 
-  
-  
   ## installation
   ${data.install}
   
   
-  
-  
   ## usage
-  ${data.using}
-  
-  
+  ${data.usage}
   
   
   ## license
-  ${data.license}
+  <img src="https://img.shields.io/badge/License-${data.license}-blue.svg"/>
   
   
-  
-  
+  This is the license this page is under: ("https://opensource.org/licenses/${data.license}")
+
   ## contributing
   ${data.contributing}
-  
-  
-  
   
   
   
@@ -53,14 +40,9 @@ function generateMarkdown(data) {
 
 
   
-  
-  
-  
-  
-  
-  
   ## questions
   If you have any questions or comments about this project please contact me at: ${data.email}
+  Github username: https://github.com/${data.username}
 `;
 
 

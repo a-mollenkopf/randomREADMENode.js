@@ -1,8 +1,8 @@
-# readmegenerator
+# READMEgenerator
   
   
   
-  ## kjdbfialufbaliufboaebfgiueghfueubfieiufuebfuqegrfbouqebFUObequrfbUQWEBrfgueqbvrfuqegbrfqeuvbrfuoeqbfugqebfuegqtfuebqutf
+  ## a CLI that generates readme's based on user input
   
   
   
@@ -20,25 +20,29 @@
   
   
   ## installation
-  eifbuoweluefvbuweuilfvbeqlfivgbuwief;uewg
+  git clone, open index.html in default browser
   
   
   
   
   ## usage
-  aheovfuEYBFildjvfvefuivffuiuifvbfuiaf
+  nothing really
   
   
   
   
   ## license
-  MIT
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg"/>
+  
+  
+  This is the license this page is under: ("https://opensource.org/licenses/MIT")
+
   
   
   
   
   ## contributing
-  ihefvlvfuiovfuivfue
+  nothing really
   
   
   
@@ -46,16 +50,15 @@
   
   
   ## tests
-  qaefbiluf
+  npm tests
 
 
 
-  
-  
   
   
   
   
   
   ## questions
-  If you have any questions or comments about this project please contact me at alexismollenkopf@gmail.com
+  If you have any questions or comments about this project please contact me at: something@gmail.com
+  Github username: https://github.com/A-mollenkopf
