@@ -25,13 +25,14 @@ const questions = [
     {
         type: "input",
         name:"description",
-        message: "Give a short description of your project",
+        message: "Give a short description of your project.",
     },
     {
         type: "list",
         name:"license",
         message: "What license is your project under?",
-        choices: ["MIT", "Apache", "GNU GPL", "Eclipse"],
+        choices: ["MIT", "Apache", "GNU GPL v3", "Eclipse"]
+              
     },
     {
         type: "input",
@@ -45,8 +46,8 @@ const questions = [
     },
     {
         type: "input",
-        name:"using",
-        message: "What should user know about using this repo?",
+        name:"usage",
+        message: "What should user know about using to this repo?",
     },
     {
         type: "input",
